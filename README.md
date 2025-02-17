@@ -1,4 +1,4 @@
-# Conjoint Analysis for BBQ Meal Preferences
+# Conjoint Analysis for Service Preferences
 
 This project applies **Conjoint Analysis** using **Ordinary Least Squares (OLS) Regression** to evaluate meal component preferences based on **average ratings** from a dataset of BBQ meal bundles. The model estimates the part-worth utilities of different meal components and predicts the best and worst combinations.
 
