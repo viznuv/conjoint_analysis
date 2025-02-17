@@ -1,0 +1,385 @@
+bundleID,starter,maindishI,maindishII,side,dessert,avg_rating
+1,Fried Chicken Tenders,BBQ Brisket,Sausage,Mac and Cheese,Blondie Brownie,6.04
+2,Fried Chicken Tenders,BBQ Brisket,Sausage,Mac and Cheese,Apple Pie a la Mode,9.29
+3,Fried Chicken Tenders,BBQ Brisket,Sausage,Potato Salad,Blondie Brownie,6.2
+4,Fried Chicken Tenders,BBQ Brisket,Sausage,Potato Salad,Apple Pie a la Mode,8.84
+5,Fried Chicken Tenders,BBQ Brisket,Sausage,French Fry Platter,Blondie Brownie,8.24
+6,Fried Chicken Tenders,BBQ Brisket,Sausage,French Fry Platter,Apple Pie a la Mode,9.9
+7,Fried Chicken Tenders,BBQ Brisket,Lobster Roll,Mac and Cheese,Blondie Brownie,9.7
+8,Fried Chicken Tenders,BBQ Brisket,Lobster Roll,Mac and Cheese,Apple Pie a la Mode,8.32
+9,Fried Chicken Tenders,BBQ Brisket,Lobster Roll,Potato Salad,Blondie Brownie,6.29
+10,Fried Chicken Tenders,BBQ Brisket,Lobster Roll,Potato Salad,Apple Pie a la Mode,8.93
+11,Fried Chicken Tenders,BBQ Brisket,Lobster Roll,French Fry Platter,Blondie Brownie,8.03
+12,Fried Chicken Tenders,BBQ Brisket,Lobster Roll,French Fry Platter,Apple Pie a la Mode,6.64
+13,Fried Chicken Tenders,BBQ Brisket,Beef Short Rib,Mac and Cheese,Blondie Brownie,7.27
+14,Fried Chicken Tenders,BBQ Brisket,Beef Short Rib,Mac and Cheese,Apple Pie a la Mode,6.23
+15,Fried Chicken Tenders,BBQ Brisket,Beef Short Rib,Potato Salad,Blondie Brownie,4.78
+16,Fried Chicken Tenders,BBQ Brisket,Beef Short Rib,Potato Salad,Apple Pie a la Mode,9.5036
+17,Fried Chicken Tenders,BBQ Brisket,Beef Short Rib,French Fry Platter,Blondie Brownie,4.8
+18,Fried Chicken Tenders,BBQ Brisket,Beef Short Rib,French Fry Platter,Apple Pie a la Mode,4.43
+19,Fried Chicken Tenders,BBQ Brisket,Steak Sampler,Mac and Cheese,Blondie Brownie,7.708
+20,Fried Chicken Tenders,BBQ Brisket,Steak Sampler,Mac and Cheese,Apple Pie a la Mode,6.788
+21,Fried Chicken Tenders,BBQ Brisket,Steak Sampler,Potato Salad,Blondie Brownie,7.368
+22,Fried Chicken Tenders,BBQ Brisket,Steak Sampler,Potato Salad,Apple Pie a la Mode,6.918
+23,Fried Chicken Tenders,BBQ Brisket,Steak Sampler,French Fry Platter,Blondie Brownie,5.898
+24,Fried Chicken Tenders,BBQ Brisket,Steak Sampler,French Fry Platter,Apple Pie a la Mode,5.738
+25,Fried Chicken Tenders,Pulled Pork,Sausage,Mac and Cheese,Blondie Brownie,6.46
+26,Fried Chicken Tenders,Pulled Pork,Sausage,Mac and Cheese,Apple Pie a la Mode,8.29
+27,Fried Chicken Tenders,Pulled Pork,Sausage,Potato Salad,Blondie Brownie,8.26
+28,Fried Chicken Tenders,Pulled Pork,Sausage,Potato Salad,Apple Pie a la Mode,9.53
+29,Fried Chicken Tenders,Pulled Pork,Sausage,French Fry Platter,Blondie Brownie,6.77
+30,Fried Chicken Tenders,Pulled Pork,Sausage,French Fry Platter,Apple Pie a la Mode,8.7
+31,Fried Chicken Tenders,Pulled Pork,Lobster Roll,Mac and Cheese,Blondie Brownie,9.86
+32,Fried Chicken Tenders,Pulled Pork,Lobster Roll,Mac and Cheese,Apple Pie a la Mode,9.78
+33,Fried Chicken Tenders,Pulled Pork,Lobster Roll,Potato Salad,Blondie Brownie,9.48
+34,Fried Chicken Tenders,Pulled Pork,Lobster Roll,Potato Salad,Apple Pie a la Mode,9.94
+35,Fried Chicken Tenders,Pulled Pork,Lobster Roll,French Fry Platter,Blondie Brownie,7.65
+36,Fried Chicken Tenders,Pulled Pork,Lobster Roll,French Fry Platter,Apple Pie a la Mode,9.77
+37,Fried Chicken Tenders,Pulled Pork,Beef Short Rib,Mac and Cheese,Blondie Brownie,6.02
+38,Fried Chicken Tenders,Pulled Pork,Beef Short Rib,Mac and Cheese,Apple Pie a la Mode,8.33
+39,Fried Chicken Tenders,Pulled Pork,Beef Short Rib,Potato Salad,Blondie Brownie,5.94
+40,Fried Chicken Tenders,Pulled Pork,Beef Short Rib,Potato Salad,Apple Pie a la Mode,5.74
+41,Fried Chicken Tenders,Pulled Pork,Beef Short Rib,French Fry Platter,Blondie Brownie,9.93
+42,Fried Chicken Tenders,Pulled Pork,Beef Short Rib,French Fry Platter,Apple Pie a la Mode,6.05
+43,Fried Chicken Tenders,Pulled Pork,Steak Sampler,Mac and Cheese,Blondie Brownie,9.178
+44,Fried Chicken Tenders,Pulled Pork,Steak Sampler,Mac and Cheese,Apple Pie a la Mode,8.988
+45,Fried Chicken Tenders,Pulled Pork,Steak Sampler,Potato Salad,Blondie Brownie,8.078
+46,Fried Chicken Tenders,Pulled Pork,Steak Sampler,Potato Salad,Apple Pie a la Mode,8.108
+47,Fried Chicken Tenders,Pulled Pork,Steak Sampler,French Fry Platter,Blondie Brownie,5.478
+48,Fried Chicken Tenders,Pulled Pork,Steak Sampler,French Fry Platter,Apple Pie a la Mode,8.858
+49,Fried Chicken Tenders,BBQ Chicken,Sausage,Mac and Cheese,Blondie Brownie,9.04
+50,Fried Chicken Tenders,BBQ Chicken,Sausage,Mac and Cheese,Apple Pie a la Mode,9.25
+51,Fried Chicken Tenders,BBQ Chicken,Sausage,Potato Salad,Blondie Brownie,8.32
+52,Fried Chicken Tenders,BBQ Chicken,Sausage,Potato Salad,Apple Pie a la Mode,6.07
+53,Fried Chicken Tenders,BBQ Chicken,Sausage,French Fry Platter,Blondie Brownie,3.91
+54,Fried Chicken Tenders,BBQ Chicken,Sausage,French Fry Platter,Apple Pie a la Mode,6.33
+55,Fried Chicken Tenders,BBQ Chicken,Lobster Roll,Mac and Cheese,Blondie Brownie,9.4176
+56,Fried Chicken Tenders,BBQ Chicken,Lobster Roll,Mac and Cheese,Apple Pie a la Mode,9.05
+57,Fried Chicken Tenders,BBQ Chicken,Lobster Roll,Potato Salad,Blondie Brownie,8.93
+58,Fried Chicken Tenders,BBQ Chicken,Lobster Roll,Potato Salad,Apple Pie a la Mode,7.81
+59,Fried Chicken Tenders,BBQ Chicken,Lobster Roll,French Fry Platter,Blondie Brownie,4.72
+60,Fried Chicken Tenders,BBQ Chicken,Lobster Roll,French Fry Platter,Apple Pie a la Mode,8.29
+61,Fried Chicken Tenders,BBQ Chicken,Beef Short Rib,Mac and Cheese,Blondie Brownie,6.9
+62,Fried Chicken Tenders,BBQ Chicken,Beef Short Rib,Mac and Cheese,Apple Pie a la Mode,7.37
+63,Fried Chicken Tenders,BBQ Chicken,Beef Short Rib,Potato Salad,Blondie Brownie,4.93
+64,Fried Chicken Tenders,BBQ Chicken,Beef Short Rib,Potato Salad,Apple Pie a la Mode,9.47
+65,Fried Chicken Tenders,BBQ Chicken,Beef Short Rib,French Fry Platter,Blondie Brownie,1.69
+66,Fried Chicken Tenders,BBQ Chicken,Beef Short Rib,French Fry Platter,Apple Pie a la Mode,7.01
+67,Fried Chicken Tenders,BBQ Chicken,Steak Sampler,Mac and Cheese,Blondie Brownie,5.658
+68,Fried Chicken Tenders,BBQ Chicken,Steak Sampler,Mac and Cheese,Apple Pie a la Mode,5.128
+69,Fried Chicken Tenders,BBQ Chicken,Steak Sampler,Potato Salad,Blondie Brownie,5.128
+70,Fried Chicken Tenders,BBQ Chicken,Steak Sampler,Potato Salad,Apple Pie a la Mode,5.268
+71,Fried Chicken Tenders,BBQ Chicken,Steak Sampler,French Fry Platter,Blondie Brownie,4.408
+72,Fried Chicken Tenders,BBQ Chicken,Steak Sampler,French Fry Platter,Apple Pie a la Mode,4.508
+73,Fried Chicken Tenders,Buffalo Chicken Macaroni Stacker,Sausage,Mac and Cheese,Blondie Brownie,9.78
+74,Fried Chicken Tenders,Buffalo Chicken Macaroni Stacker,Sausage,Mac and Cheese,Apple Pie a la Mode,8.7
+75,Fried Chicken Tenders,Buffalo Chicken Macaroni Stacker,Sausage,Potato Salad,Blondie Brownie,8.99
+76,Fried Chicken Tenders,Buffalo Chicken Macaroni Stacker,Sausage,Potato Salad,Apple Pie a la Mode,9.65
+77,Fried Chicken Tenders,Buffalo Chicken Macaroni Stacker,Sausage,French Fry Platter,Blondie Brownie,2.63
+78,Fried Chicken Tenders,Buffalo Chicken Macaroni Stacker,Sausage,French Fry Platter,Apple Pie a la Mode,7.91
+79,Fried Chicken Tenders,Buffalo Chicken Macaroni Stacker,Lobster Roll,Mac and Cheese,Blondie Brownie,8.5
+80,Fried Chicken Tenders,Buffalo Chicken Macaroni Stacker,Lobster Roll,Mac and Cheese,Apple Pie a la Mode,9.76
+81,Fried Chicken Tenders,Buffalo Chicken Macaroni Stacker,Lobster Roll,Potato Salad,Blondie Brownie,7.74
+82,Fried Chicken Tenders,Buffalo Chicken Macaroni Stacker,Lobster Roll,Potato Salad,Apple Pie a la Mode,9.94
+83,Fried Chicken Tenders,Buffalo Chicken Macaroni Stacker,Lobster Roll,French Fry Platter,Blondie Brownie,7.89
+84,Fried Chicken Tenders,Buffalo Chicken Macaroni Stacker,Lobster Roll,French Fry Platter,Apple Pie a la Mode,7.16
+85,Fried Chicken Tenders,Buffalo Chicken Macaroni Stacker,Beef Short Rib,Mac and Cheese,Blondie Brownie,5.82
+86,Fried Chicken Tenders,Buffalo Chicken Macaroni Stacker,Beef Short Rib,Mac and Cheese,Apple Pie a la Mode,6.98
+87,Fried Chicken Tenders,Buffalo Chicken Macaroni Stacker,Beef Short Rib,Potato Salad,Blondie Brownie,8.84
+88,Fried Chicken Tenders,Buffalo Chicken Macaroni Stacker,Beef Short Rib,Potato Salad,Apple Pie a la Mode,9.33
+89,Fried Chicken Tenders,Buffalo Chicken Macaroni Stacker,Beef Short Rib,French Fry Platter,Blondie Brownie,7.26
+90,Fried Chicken Tenders,Buffalo Chicken Macaroni Stacker,Beef Short Rib,French Fry Platter,Apple Pie a la Mode,9.49
+91,Fried Chicken Tenders,Buffalo Chicken Macaroni Stacker,Steak Sampler,Mac and Cheese,Blondie Brownie,5.748
+92,Fried Chicken Tenders,Buffalo Chicken Macaroni Stacker,Steak Sampler,Mac and Cheese,Apple Pie a la Mode,8.738
+93,Fried Chicken Tenders,Buffalo Chicken Macaroni Stacker,Steak Sampler,Potato Salad,Blondie Brownie,7.658
+94,Fried Chicken Tenders,Buffalo Chicken Macaroni Stacker,Steak Sampler,Potato Salad,Apple Pie a la Mode,3.248
+95,Fried Chicken Tenders,Buffalo Chicken Macaroni Stacker,Steak Sampler,French Fry Platter,Blondie Brownie,9.048
+96,Fried Chicken Tenders,Buffalo Chicken Macaroni Stacker,Steak Sampler,French Fry Platter,Apple Pie a la Mode,8.118
+97,Bacon Fries,BBQ Brisket,Sausage,Mac and Cheese,Blondie Brownie,7.66
+98,Bacon Fries,BBQ Brisket,Sausage,Mac and Cheese,Apple Pie a la Mode,6.51
+99,Bacon Fries,BBQ Brisket,Sausage,Potato Salad,Blondie Brownie,7.69
+100,Bacon Fries,BBQ Brisket,Sausage,Potato Salad,Apple Pie a la Mode,5.99
+101,Bacon Fries,BBQ Brisket,Sausage,French Fry Platter,Blondie Brownie,7.27
+102,Bacon Fries,BBQ Brisket,Sausage,French Fry Platter,Apple Pie a la Mode,5.62
+103,Bacon Fries,BBQ Brisket,Lobster Roll,Mac and Cheese,Blondie Brownie,5.76
+104,Bacon Fries,BBQ Brisket,Lobster Roll,Mac and Cheese,Apple Pie a la Mode,9.3716
+105,Bacon Fries,BBQ Brisket,Lobster Roll,Potato Salad,Blondie Brownie,4.47
+106,Bacon Fries,BBQ Brisket,Lobster Roll,Potato Salad,Apple Pie a la Mode,8.23
+107,Bacon Fries,BBQ Brisket,Lobster Roll,French Fry Platter,Blondie Brownie,8.5
+108,Bacon Fries,BBQ Brisket,Lobster Roll,French Fry Platter,Apple Pie a la Mode,6.21
+109,Bacon Fries,BBQ Brisket,Beef Short Rib,Mac and Cheese,Blondie Brownie,8.86
+110,Bacon Fries,BBQ Brisket,Beef Short Rib,Mac and Cheese,Apple Pie a la Mode,9.87
+111,Bacon Fries,BBQ Brisket,Beef Short Rib,Potato Salad,Blondie Brownie,3.31
+112,Bacon Fries,BBQ Brisket,Beef Short Rib,Potato Salad,Apple Pie a la Mode,6.92
+113,Bacon Fries,BBQ Brisket,Beef Short Rib,French Fry Platter,Blondie Brownie,7.05
+114,Bacon Fries,BBQ Brisket,Beef Short Rib,French Fry Platter,Apple Pie a la Mode,6.29
+115,Bacon Fries,BBQ Brisket,Steak Sampler,Mac and Cheese,Blondie Brownie,6.808
+116,Bacon Fries,BBQ Brisket,Steak Sampler,Mac and Cheese,Apple Pie a la Mode,7.678
+117,Bacon Fries,BBQ Brisket,Steak Sampler,Potato Salad,Blondie Brownie,6.828
+118,Bacon Fries,BBQ Brisket,Steak Sampler,Potato Salad,Apple Pie a la Mode,7.568
+119,Bacon Fries,BBQ Brisket,Steak Sampler,French Fry Platter,Blondie Brownie,5.178
+120,Bacon Fries,BBQ Brisket,Steak Sampler,French Fry Platter,Apple Pie a la Mode,5.708
+121,Bacon Fries,Pulled Pork,Sausage,Mac and Cheese,Blondie Brownie,5.71
+122,Bacon Fries,Pulled Pork,Sausage,Mac and Cheese,Apple Pie a la Mode,7.47
+123,Bacon Fries,Pulled Pork,Sausage,Potato Salad,Blondie Brownie,6.85
+124,Bacon Fries,Pulled Pork,Sausage,Potato Salad,Apple Pie a la Mode,7.53
+125,Bacon Fries,Pulled Pork,Sausage,French Fry Platter,Blondie Brownie,6.82
+126,Bacon Fries,Pulled Pork,Sausage,French Fry Platter,Apple Pie a la Mode,7.46
+127,Bacon Fries,Pulled Pork,Lobster Roll,Mac and Cheese,Blondie Brownie,8.13
+128,Bacon Fries,Pulled Pork,Lobster Roll,Mac and Cheese,Apple Pie a la Mode,8.78
+129,Bacon Fries,Pulled Pork,Lobster Roll,Potato Salad,Blondie Brownie,7.94
+130,Bacon Fries,Pulled Pork,Lobster Roll,Potato Salad,Apple Pie a la Mode,9.384
+131,Bacon Fries,Pulled Pork,Lobster Roll,French Fry Platter,Blondie Brownie,9.14
+132,Bacon Fries,Pulled Pork,Lobster Roll,French Fry Platter,Apple Pie a la Mode,9.45
+133,Bacon Fries,Pulled Pork,Beef Short Rib,Mac and Cheese,Blondie Brownie,6.88
+134,Bacon Fries,Pulled Pork,Beef Short Rib,Mac and Cheese,Apple Pie a la Mode,8.93
+135,Bacon Fries,Pulled Pork,Beef Short Rib,Potato Salad,Blondie Brownie,5.07
+136,Bacon Fries,Pulled Pork,Beef Short Rib,Potato Salad,Apple Pie a la Mode,9.55
+137,Bacon Fries,Pulled Pork,Beef Short Rib,French Fry Platter,Blondie Brownie,5.34
+138,Bacon Fries,Pulled Pork,Beef Short Rib,French Fry Platter,Apple Pie a la Mode,7.16
+139,Bacon Fries,Pulled Pork,Steak Sampler,Mac and Cheese,Blondie Brownie,6.498
+140,Bacon Fries,Pulled Pork,Steak Sampler,Mac and Cheese,Apple Pie a la Mode,7.208
+141,Bacon Fries,Pulled Pork,Steak Sampler,Potato Salad,Blondie Brownie,8.588
+142,Bacon Fries,Pulled Pork,Steak Sampler,Potato Salad,Apple Pie a la Mode,8.428
+143,Bacon Fries,Pulled Pork,Steak Sampler,French Fry Platter,Blondie Brownie,6.198
+144,Bacon Fries,Pulled Pork,Steak Sampler,French Fry Platter,Apple Pie a la Mode,8.308
+145,Bacon Fries,BBQ Chicken,Sausage,Mac and Cheese,Blondie Brownie,7.47
+146,Bacon Fries,BBQ Chicken,Sausage,Mac and Cheese,Apple Pie a la Mode,8.79
+147,Bacon Fries,BBQ Chicken,Sausage,Potato Salad,Blondie Brownie,5.96
+148,Bacon Fries,BBQ Chicken,Sausage,Potato Salad,Apple Pie a la Mode,8.09
+149,Bacon Fries,BBQ Chicken,Sausage,French Fry Platter,Blondie Brownie,8.24
+150,Bacon Fries,BBQ Chicken,Sausage,French Fry Platter,Apple Pie a la Mode,5.09
+151,Bacon Fries,BBQ Chicken,Lobster Roll,Mac and Cheese,Blondie Brownie,9.48
+152,Bacon Fries,BBQ Chicken,Lobster Roll,Mac and Cheese,Apple Pie a la Mode,9.3196
+153,Bacon Fries,BBQ Chicken,Lobster Roll,Potato Salad,Blondie Brownie,7.21
+154,Bacon Fries,BBQ Chicken,Lobster Roll,Potato Salad,Apple Pie a la Mode,8.35
+155,Bacon Fries,BBQ Chicken,Lobster Roll,French Fry Platter,Blondie Brownie,8.69
+156,Bacon Fries,BBQ Chicken,Lobster Roll,French Fry Platter,Apple Pie a la Mode,9.2
+157,Bacon Fries,BBQ Chicken,Beef Short Rib,Mac and Cheese,Blondie Brownie,7.5
+158,Bacon Fries,BBQ Chicken,Beef Short Rib,Mac and Cheese,Apple Pie a la Mode,9.17
+159,Bacon Fries,BBQ Chicken,Beef Short Rib,Potato Salad,Blondie Brownie,3.6
+160,Bacon Fries,BBQ Chicken,Beef Short Rib,Potato Salad,Apple Pie a la Mode,6.9
+161,Bacon Fries,BBQ Chicken,Beef Short Rib,French Fry Platter,Blondie Brownie,3.6
+162,Bacon Fries,BBQ Chicken,Beef Short Rib,French Fry Platter,Apple Pie a la Mode,8.81
+163,Bacon Fries,BBQ Chicken,Steak Sampler,Mac and Cheese,Blondie Brownie,3.228
+164,Bacon Fries,BBQ Chicken,Steak Sampler,Mac and Cheese,Apple Pie a la Mode,7.608
+165,Bacon Fries,BBQ Chicken,Steak Sampler,Potato Salad,Blondie Brownie,4.268
+166,Bacon Fries,BBQ Chicken,Steak Sampler,Potato Salad,Apple Pie a la Mode,8.818
+167,Bacon Fries,BBQ Chicken,Steak Sampler,French Fry Platter,Blondie Brownie,6.238
+168,Bacon Fries,BBQ Chicken,Steak Sampler,French Fry Platter,Apple Pie a la Mode,3.378
+169,Bacon Fries,Buffalo Chicken Macaroni Stacker,Sausage,Mac and Cheese,Blondie Brownie,8.43
+170,Bacon Fries,Buffalo Chicken Macaroni Stacker,Sausage,Mac and Cheese,Apple Pie a la Mode,9.3532
+171,Bacon Fries,Buffalo Chicken Macaroni Stacker,Sausage,Potato Salad,Blondie Brownie,5.39
+172,Bacon Fries,Buffalo Chicken Macaroni Stacker,Sausage,Potato Salad,Apple Pie a la Mode,7.4
+173,Bacon Fries,Buffalo Chicken Macaroni Stacker,Sausage,French Fry Platter,Blondie Brownie,7.97
+174,Bacon Fries,Buffalo Chicken Macaroni Stacker,Sausage,French Fry Platter,Apple Pie a la Mode,7.65
+175,Bacon Fries,Buffalo Chicken Macaroni Stacker,Lobster Roll,Mac and Cheese,Blondie Brownie,9.41
+176,Bacon Fries,Buffalo Chicken Macaroni Stacker,Lobster Roll,Mac and Cheese,Apple Pie a la Mode,7.62
+177,Bacon Fries,Buffalo Chicken Macaroni Stacker,Lobster Roll,Potato Salad,Blondie Brownie,8.39
+178,Bacon Fries,Buffalo Chicken Macaroni Stacker,Lobster Roll,Potato Salad,Apple Pie a la Mode,8.92
+179,Bacon Fries,Buffalo Chicken Macaroni Stacker,Lobster Roll,French Fry Platter,Blondie Brownie,9.1
+180,Bacon Fries,Buffalo Chicken Macaroni Stacker,Lobster Roll,French Fry Platter,Apple Pie a la Mode,9.7
+181,Bacon Fries,Buffalo Chicken Macaroni Stacker,Beef Short Rib,Mac and Cheese,Blondie Brownie,6.6
+182,Bacon Fries,Buffalo Chicken Macaroni Stacker,Beef Short Rib,Mac and Cheese,Apple Pie a la Mode,7.6
+183,Bacon Fries,Buffalo Chicken Macaroni Stacker,Beef Short Rib,Potato Salad,Blondie Brownie,7.41
+184,Bacon Fries,Buffalo Chicken Macaroni Stacker,Beef Short Rib,Potato Salad,Apple Pie a la Mode,7.99
+185,Bacon Fries,Buffalo Chicken Macaroni Stacker,Beef Short Rib,French Fry Platter,Blondie Brownie,7.9
+186,Bacon Fries,Buffalo Chicken Macaroni Stacker,Beef Short Rib,French Fry Platter,Apple Pie a la Mode,9.34
+187,Bacon Fries,Buffalo Chicken Macaroni Stacker,Steak Sampler,Mac and Cheese,Blondie Brownie,5.968
+188,Bacon Fries,Buffalo Chicken Macaroni Stacker,Steak Sampler,Mac and Cheese,Apple Pie a la Mode,8.338
+189,Bacon Fries,Buffalo Chicken Macaroni Stacker,Steak Sampler,Potato Salad,Blondie Brownie,6.838
+190,Bacon Fries,Buffalo Chicken Macaroni Stacker,Steak Sampler,Potato Salad,Apple Pie a la Mode,4.858
+191,Bacon Fries,Buffalo Chicken Macaroni Stacker,Steak Sampler,French Fry Platter,Blondie Brownie,5.738
+192,Bacon Fries,Buffalo Chicken Macaroni Stacker,Steak Sampler,French Fry Platter,Apple Pie a la Mode,8.658
+193,Sticky Chicken Tenders,BBQ Brisket,Sausage,Mac and Cheese,Blondie Brownie,8.85
+194,Sticky Chicken Tenders,BBQ Brisket,Sausage,Mac and Cheese,Apple Pie a la Mode,8.27
+195,Sticky Chicken Tenders,BBQ Brisket,Sausage,Potato Salad,Blondie Brownie,9.9
+196,Sticky Chicken Tenders,BBQ Brisket,Sausage,Potato Salad,Apple Pie a la Mode,9.48
+197,Sticky Chicken Tenders,BBQ Brisket,Sausage,French Fry Platter,Blondie Brownie,7.79
+198,Sticky Chicken Tenders,BBQ Brisket,Sausage,French Fry Platter,Apple Pie a la Mode,9.67
+199,Sticky Chicken Tenders,BBQ Brisket,Lobster Roll,Mac and Cheese,Blondie Brownie,6.61
+200,Sticky Chicken Tenders,BBQ Brisket,Lobster Roll,Mac and Cheese,Apple Pie a la Mode,9.31
+201,Sticky Chicken Tenders,BBQ Brisket,Lobster Roll,Potato Salad,Blondie Brownie,9.11
+202,Sticky Chicken Tenders,BBQ Brisket,Lobster Roll,Potato Salad,Apple Pie a la Mode,6.74
+203,Sticky Chicken Tenders,BBQ Brisket,Lobster Roll,French Fry Platter,Blondie Brownie,7.79
+204,Sticky Chicken Tenders,BBQ Brisket,Lobster Roll,French Fry Platter,Apple Pie a la Mode,8.03
+205,Sticky Chicken Tenders,BBQ Brisket,Beef Short Rib,Mac and Cheese,Blondie Brownie,9.72
+206,Sticky Chicken Tenders,BBQ Brisket,Beef Short Rib,Mac and Cheese,Apple Pie a la Mode,7.06
+207,Sticky Chicken Tenders,BBQ Brisket,Beef Short Rib,Potato Salad,Blondie Brownie,4.39
+208,Sticky Chicken Tenders,BBQ Brisket,Beef Short Rib,Potato Salad,Apple Pie a la Mode,7.51
+209,Sticky Chicken Tenders,BBQ Brisket,Beef Short Rib,French Fry Platter,Blondie Brownie,6.96
+210,Sticky Chicken Tenders,BBQ Brisket,Beef Short Rib,French Fry Platter,Apple Pie a la Mode,9.35
+211,Sticky Chicken Tenders,BBQ Brisket,Steak Sampler,Mac and Cheese,Blondie Brownie,5.938
+212,Sticky Chicken Tenders,BBQ Brisket,Steak Sampler,Mac and Cheese,Apple Pie a la Mode,7.138
+213,Sticky Chicken Tenders,BBQ Brisket,Steak Sampler,Potato Salad,Blondie Brownie,6.628
+214,Sticky Chicken Tenders,BBQ Brisket,Steak Sampler,Potato Salad,Apple Pie a la Mode,7.618
+215,Sticky Chicken Tenders,BBQ Brisket,Steak Sampler,French Fry Platter,Blondie Brownie,7.108
+216,Sticky Chicken Tenders,BBQ Brisket,Steak Sampler,French Fry Platter,Apple Pie a la Mode,6.658
+217,Sticky Chicken Tenders,Pulled Pork,Sausage,Mac and Cheese,Blondie Brownie,9.52
+218,Sticky Chicken Tenders,Pulled Pork,Sausage,Mac and Cheese,Apple Pie a la Mode,9.292
+219,Sticky Chicken Tenders,Pulled Pork,Sausage,Potato Salad,Blondie Brownie,8.01
+220,Sticky Chicken Tenders,Pulled Pork,Sausage,Potato Salad,Apple Pie a la Mode,5.69
+221,Sticky Chicken Tenders,Pulled Pork,Sausage,French Fry Platter,Blondie Brownie,9.66
+222,Sticky Chicken Tenders,Pulled Pork,Sausage,French Fry Platter,Apple Pie a la Mode,9.2276
+223,Sticky Chicken Tenders,Pulled Pork,Lobster Roll,Mac and Cheese,Blondie Brownie,9.54
+224,Sticky Chicken Tenders,Pulled Pork,Lobster Roll,Mac and Cheese,Apple Pie a la Mode,9.94
+225,Sticky Chicken Tenders,Pulled Pork,Lobster Roll,Potato Salad,Blondie Brownie,7.48
+226,Sticky Chicken Tenders,Pulled Pork,Lobster Roll,Potato Salad,Apple Pie a la Mode,7.07
+227,Sticky Chicken Tenders,Pulled Pork,Lobster Roll,French Fry Platter,Blondie Brownie,6.12
+228,Sticky Chicken Tenders,Pulled Pork,Lobster Roll,French Fry Platter,Apple Pie a la Mode,7.88
+229,Sticky Chicken Tenders,Pulled Pork,Beef Short Rib,Mac and Cheese,Blondie Brownie,8.58
+230,Sticky Chicken Tenders,Pulled Pork,Beef Short Rib,Mac and Cheese,Apple Pie a la Mode,8.15
+231,Sticky Chicken Tenders,Pulled Pork,Beef Short Rib,Potato Salad,Blondie Brownie,8.51
+232,Sticky Chicken Tenders,Pulled Pork,Beef Short Rib,Potato Salad,Apple Pie a la Mode,9.26
+233,Sticky Chicken Tenders,Pulled Pork,Beef Short Rib,French Fry Platter,Blondie Brownie,7.17
+234,Sticky Chicken Tenders,Pulled Pork,Beef Short Rib,French Fry Platter,Apple Pie a la Mode,9.43
+235,Sticky Chicken Tenders,Pulled Pork,Steak Sampler,Mac and Cheese,Blondie Brownie,4.728
+236,Sticky Chicken Tenders,Pulled Pork,Steak Sampler,Mac and Cheese,Apple Pie a la Mode,8.148
+237,Sticky Chicken Tenders,Pulled Pork,Steak Sampler,Potato Salad,Blondie Brownie,8.458
+238,Sticky Chicken Tenders,Pulled Pork,Steak Sampler,Potato Salad,Apple Pie a la Mode,3.978
+239,Sticky Chicken Tenders,Pulled Pork,Steak Sampler,French Fry Platter,Blondie Brownie,6.478
+240,Sticky Chicken Tenders,Pulled Pork,Steak Sampler,French Fry Platter,Apple Pie a la Mode,6.458
+241,Sticky Chicken Tenders,BBQ Chicken,Sausage,Mac and Cheese,Blondie Brownie,9.44
+242,Sticky Chicken Tenders,BBQ Chicken,Sausage,Mac and Cheese,Apple Pie a la Mode,6.66
+243,Sticky Chicken Tenders,BBQ Chicken,Sausage,Potato Salad,Blondie Brownie,5.91
+244,Sticky Chicken Tenders,BBQ Chicken,Sausage,Potato Salad,Apple Pie a la Mode,8.77
+245,Sticky Chicken Tenders,BBQ Chicken,Sausage,French Fry Platter,Blondie Brownie,7.54
+246,Sticky Chicken Tenders,BBQ Chicken,Sausage,French Fry Platter,Apple Pie a la Mode,7.58
+247,Sticky Chicken Tenders,BBQ Chicken,Lobster Roll,Mac and Cheese,Blondie Brownie,7.72
+248,Sticky Chicken Tenders,BBQ Chicken,Lobster Roll,Mac and Cheese,Apple Pie a la Mode,7.18
+249,Sticky Chicken Tenders,BBQ Chicken,Lobster Roll,Potato Salad,Blondie Brownie,7.59
+250,Sticky Chicken Tenders,BBQ Chicken,Lobster Roll,Potato Salad,Apple Pie a la Mode,8.95
+251,Sticky Chicken Tenders,BBQ Chicken,Lobster Roll,French Fry Platter,Blondie Brownie,7.5
+252,Sticky Chicken Tenders,BBQ Chicken,Lobster Roll,French Fry Platter,Apple Pie a la Mode,9.2808
+253,Sticky Chicken Tenders,BBQ Chicken,Beef Short Rib,Mac and Cheese,Blondie Brownie,7.02
+254,Sticky Chicken Tenders,BBQ Chicken,Beef Short Rib,Mac and Cheese,Apple Pie a la Mode,9.55
+255,Sticky Chicken Tenders,BBQ Chicken,Beef Short Rib,Potato Salad,Blondie Brownie,7.15
+256,Sticky Chicken Tenders,BBQ Chicken,Beef Short Rib,Potato Salad,Apple Pie a la Mode,9.54
+257,Sticky Chicken Tenders,BBQ Chicken,Beef Short Rib,French Fry Platter,Blondie Brownie,5.24
+258,Sticky Chicken Tenders,BBQ Chicken,Beef Short Rib,French Fry Platter,Apple Pie a la Mode,5.85
+259,Sticky Chicken Tenders,BBQ Chicken,Steak Sampler,Mac and Cheese,Blondie Brownie,6.718
+260,Sticky Chicken Tenders,BBQ Chicken,Steak Sampler,Mac and Cheese,Apple Pie a la Mode,9.0624
+261,Sticky Chicken Tenders,BBQ Chicken,Steak Sampler,Potato Salad,Blondie Brownie,4.958
+262,Sticky Chicken Tenders,BBQ Chicken,Steak Sampler,Potato Salad,Apple Pie a la Mode,3.938
+263,Sticky Chicken Tenders,BBQ Chicken,Steak Sampler,French Fry Platter,Blondie Brownie,6.018
+264,Sticky Chicken Tenders,BBQ Chicken,Steak Sampler,French Fry Platter,Apple Pie a la Mode,8.678
+265,Sticky Chicken Tenders,Buffalo Chicken Macaroni Stacker,Sausage,Mac and Cheese,Blondie Brownie,5.73
+266,Sticky Chicken Tenders,Buffalo Chicken Macaroni Stacker,Sausage,Mac and Cheese,Apple Pie a la Mode,9.292
+267,Sticky Chicken Tenders,Buffalo Chicken Macaroni Stacker,Sausage,Potato Salad,Blondie Brownie,5.4
+268,Sticky Chicken Tenders,Buffalo Chicken Macaroni Stacker,Sausage,Potato Salad,Apple Pie a la Mode,9.35
+269,Sticky Chicken Tenders,Buffalo Chicken Macaroni Stacker,Sausage,French Fry Platter,Blondie Brownie,5.18
+270,Sticky Chicken Tenders,Buffalo Chicken Macaroni Stacker,Sausage,French Fry Platter,Apple Pie a la Mode,9.76
+271,Sticky Chicken Tenders,Buffalo Chicken Macaroni Stacker,Lobster Roll,Mac and Cheese,Blondie Brownie,9.572
+272,Sticky Chicken Tenders,Buffalo Chicken Macaroni Stacker,Lobster Roll,Mac and Cheese,Apple Pie a la Mode,7.66
+273,Sticky Chicken Tenders,Buffalo Chicken Macaroni Stacker,Lobster Roll,Potato Salad,Blondie Brownie,7.61
+274,Sticky Chicken Tenders,Buffalo Chicken Macaroni Stacker,Lobster Roll,Potato Salad,Apple Pie a la Mode,9.41
+275,Sticky Chicken Tenders,Buffalo Chicken Macaroni Stacker,Lobster Roll,French Fry Platter,Blondie Brownie,8.66
+276,Sticky Chicken Tenders,Buffalo Chicken Macaroni Stacker,Lobster Roll,French Fry Platter,Apple Pie a la Mode,8.3
+277,Sticky Chicken Tenders,Buffalo Chicken Macaroni Stacker,Beef Short Rib,Mac and Cheese,Blondie Brownie,4.63
+278,Sticky Chicken Tenders,Buffalo Chicken Macaroni Stacker,Beef Short Rib,Mac and Cheese,Apple Pie a la Mode,7.8
+279,Sticky Chicken Tenders,Buffalo Chicken Macaroni Stacker,Beef Short Rib,Potato Salad,Blondie Brownie,8.66
+280,Sticky Chicken Tenders,Buffalo Chicken Macaroni Stacker,Beef Short Rib,Potato Salad,Apple Pie a la Mode,6.2
+281,Sticky Chicken Tenders,Buffalo Chicken Macaroni Stacker,Beef Short Rib,French Fry Platter,Blondie Brownie,7.34
+282,Sticky Chicken Tenders,Buffalo Chicken Macaroni Stacker,Beef Short Rib,French Fry Platter,Apple Pie a la Mode,8.3
+283,Sticky Chicken Tenders,Buffalo Chicken Macaroni Stacker,Steak Sampler,Mac and Cheese,Blondie Brownie,8.068
+284,Sticky Chicken Tenders,Buffalo Chicken Macaroni Stacker,Steak Sampler,Mac and Cheese,Apple Pie a la Mode,8.588
+285,Sticky Chicken Tenders,Buffalo Chicken Macaroni Stacker,Steak Sampler,Potato Salad,Blondie Brownie,6.368
+286,Sticky Chicken Tenders,Buffalo Chicken Macaroni Stacker,Steak Sampler,Potato Salad,Apple Pie a la Mode,4.918
+287,Sticky Chicken Tenders,Buffalo Chicken Macaroni Stacker,Steak Sampler,French Fry Platter,Blondie Brownie,7.678
+288,Sticky Chicken Tenders,Buffalo Chicken Macaroni Stacker,Steak Sampler,French Fry Platter,Apple Pie a la Mode,7.598
+289,Jumbo Shrimp Cocktail,BBQ Brisket,Sausage,Mac and Cheese,Blondie Brownie,5.2
+290,Jumbo Shrimp Cocktail,BBQ Brisket,Sausage,Mac and Cheese,Apple Pie a la Mode,5.13
+291,Jumbo Shrimp Cocktail,BBQ Brisket,Sausage,Potato Salad,Blondie Brownie,8.26
+292,Jumbo Shrimp Cocktail,BBQ Brisket,Sausage,Potato Salad,Apple Pie a la Mode,6.84
+293,Jumbo Shrimp Cocktail,BBQ Brisket,Sausage,French Fry Platter,Blondie Brownie,4.8
+294,Jumbo Shrimp Cocktail,BBQ Brisket,Sausage,French Fry Platter,Apple Pie a la Mode,3.46
+295,Jumbo Shrimp Cocktail,BBQ Brisket,Lobster Roll,Mac and Cheese,Blondie Brownie,8.95
+296,Jumbo Shrimp Cocktail,BBQ Brisket,Lobster Roll,Mac and Cheese,Apple Pie a la Mode,9.3012
+297,Jumbo Shrimp Cocktail,BBQ Brisket,Lobster Roll,Potato Salad,Blondie Brownie,6.15
+298,Jumbo Shrimp Cocktail,BBQ Brisket,Lobster Roll,Potato Salad,Apple Pie a la Mode,5.38
+299,Jumbo Shrimp Cocktail,BBQ Brisket,Lobster Roll,French Fry Platter,Blondie Brownie,8.49
+300,Jumbo Shrimp Cocktail,BBQ Brisket,Lobster Roll,French Fry Platter,Apple Pie a la Mode,9.86
+301,Jumbo Shrimp Cocktail,BBQ Brisket,Beef Short Rib,Mac and Cheese,Blondie Brownie,5.88
+302,Jumbo Shrimp Cocktail,BBQ Brisket,Beef Short Rib,Mac and Cheese,Apple Pie a la Mode,8.45
+303,Jumbo Shrimp Cocktail,BBQ Brisket,Beef Short Rib,Potato Salad,Blondie Brownie,8.97
+304,Jumbo Shrimp Cocktail,BBQ Brisket,Beef Short Rib,Potato Salad,Apple Pie a la Mode,4.21
+305,Jumbo Shrimp Cocktail,BBQ Brisket,Beef Short Rib,French Fry Platter,Blondie Brownie,5.62
+306,Jumbo Shrimp Cocktail,BBQ Brisket,Beef Short Rib,French Fry Platter,Apple Pie a la Mode,5.2
+307,Jumbo Shrimp Cocktail,BBQ Brisket,Steak Sampler,Mac and Cheese,Blondie Brownie,4.568
+308,Jumbo Shrimp Cocktail,BBQ Brisket,Steak Sampler,Mac and Cheese,Apple Pie a la Mode,5.548
+309,Jumbo Shrimp Cocktail,BBQ Brisket,Steak Sampler,Potato Salad,Blondie Brownie,2.008
+310,Jumbo Shrimp Cocktail,BBQ Brisket,Steak Sampler,Potato Salad,Apple Pie a la Mode,6.188
+311,Jumbo Shrimp Cocktail,BBQ Brisket,Steak Sampler,French Fry Platter,Blondie Brownie,5.758
+312,Jumbo Shrimp Cocktail,BBQ Brisket,Steak Sampler,French Fry Platter,Apple Pie a la Mode,8.348
+313,Jumbo Shrimp Cocktail,Pulled Pork,Sausage,Mac and Cheese,Blondie Brownie,4.54
+314,Jumbo Shrimp Cocktail,Pulled Pork,Sausage,Mac and Cheese,Apple Pie a la Mode,7.72
+315,Jumbo Shrimp Cocktail,Pulled Pork,Sausage,Potato Salad,Blondie Brownie,2.87
+316,Jumbo Shrimp Cocktail,Pulled Pork,Sausage,Potato Salad,Apple Pie a la Mode,7.05
+317,Jumbo Shrimp Cocktail,Pulled Pork,Sausage,French Fry Platter,Blondie Brownie,9.23
+318,Jumbo Shrimp Cocktail,Pulled Pork,Sausage,French Fry Platter,Apple Pie a la Mode,7.16
+319,Jumbo Shrimp Cocktail,Pulled Pork,Lobster Roll,Mac and Cheese,Blondie Brownie,6.99
+320,Jumbo Shrimp Cocktail,Pulled Pork,Lobster Roll,Mac and Cheese,Apple Pie a la Mode,9.81
+321,Jumbo Shrimp Cocktail,Pulled Pork,Lobster Roll,Potato Salad,Blondie Brownie,6.76
+322,Jumbo Shrimp Cocktail,Pulled Pork,Lobster Roll,Potato Salad,Apple Pie a la Mode,6.94
+323,Jumbo Shrimp Cocktail,Pulled Pork,Lobster Roll,French Fry Platter,Blondie Brownie,7.05
+324,Jumbo Shrimp Cocktail,Pulled Pork,Lobster Roll,French Fry Platter,Apple Pie a la Mode,6.74
+325,Jumbo Shrimp Cocktail,Pulled Pork,Beef Short Rib,Mac and Cheese,Blondie Brownie,5.5
+326,Jumbo Shrimp Cocktail,Pulled Pork,Beef Short Rib,Mac and Cheese,Apple Pie a la Mode,9.37
+327,Jumbo Shrimp Cocktail,Pulled Pork,Beef Short Rib,Potato Salad,Blondie Brownie,7.72
+328,Jumbo Shrimp Cocktail,Pulled Pork,Beef Short Rib,Potato Salad,Apple Pie a la Mode,7.3
+329,Jumbo Shrimp Cocktail,Pulled Pork,Beef Short Rib,French Fry Platter,Blondie Brownie,4.59
+330,Jumbo Shrimp Cocktail,Pulled Pork,Beef Short Rib,French Fry Platter,Apple Pie a la Mode,6.48
+331,Jumbo Shrimp Cocktail,Pulled Pork,Steak Sampler,Mac and Cheese,Blondie Brownie,5.508
+332,Jumbo Shrimp Cocktail,Pulled Pork,Steak Sampler,Mac and Cheese,Apple Pie a la Mode,8.5248
+333,Jumbo Shrimp Cocktail,Pulled Pork,Steak Sampler,Potato Salad,Blondie Brownie,5.198
+334,Jumbo Shrimp Cocktail,Pulled Pork,Steak Sampler,Potato Salad,Apple Pie a la Mode,5.178
+335,Jumbo Shrimp Cocktail,Pulled Pork,Steak Sampler,French Fry Platter,Blondie Brownie,6.378
+336,Jumbo Shrimp Cocktail,Pulled Pork,Steak Sampler,French Fry Platter,Apple Pie a la Mode,8.818
+337,Jumbo Shrimp Cocktail,BBQ Chicken,Sausage,Mac and Cheese,Blondie Brownie,7.6
+338,Jumbo Shrimp Cocktail,BBQ Chicken,Sausage,Mac and Cheese,Apple Pie a la Mode,6.28
+339,Jumbo Shrimp Cocktail,BBQ Chicken,Sausage,Potato Salad,Blondie Brownie,5.21
+340,Jumbo Shrimp Cocktail,BBQ Chicken,Sausage,Potato Salad,Apple Pie a la Mode,7.18
+341,Jumbo Shrimp Cocktail,BBQ Chicken,Sausage,French Fry Platter,Blondie Brownie,7.68
+342,Jumbo Shrimp Cocktail,BBQ Chicken,Sausage,French Fry Platter,Apple Pie a la Mode,5.12
+343,Jumbo Shrimp Cocktail,BBQ Chicken,Lobster Roll,Mac and Cheese,Blondie Brownie,5.09
+344,Jumbo Shrimp Cocktail,BBQ Chicken,Lobster Roll,Mac and Cheese,Apple Pie a la Mode,6.8
+345,Jumbo Shrimp Cocktail,BBQ Chicken,Lobster Roll,Potato Salad,Blondie Brownie,3.91
+346,Jumbo Shrimp Cocktail,BBQ Chicken,Lobster Roll,Potato Salad,Apple Pie a la Mode,8.88
+347,Jumbo Shrimp Cocktail,BBQ Chicken,Lobster Roll,French Fry Platter,Blondie Brownie,7.51
+348,Jumbo Shrimp Cocktail,BBQ Chicken,Lobster Roll,French Fry Platter,Apple Pie a la Mode,9.23
+349,Jumbo Shrimp Cocktail,BBQ Chicken,Beef Short Rib,Mac and Cheese,Blondie Brownie,3.93
+350,Jumbo Shrimp Cocktail,BBQ Chicken,Beef Short Rib,Mac and Cheese,Apple Pie a la Mode,9.41
+351,Jumbo Shrimp Cocktail,BBQ Chicken,Beef Short Rib,Potato Salad,Blondie Brownie,3.18
+352,Jumbo Shrimp Cocktail,BBQ Chicken,Beef Short Rib,Potato Salad,Apple Pie a la Mode,7.66
+353,Jumbo Shrimp Cocktail,BBQ Chicken,Beef Short Rib,French Fry Platter,Blondie Brownie,5.96
+354,Jumbo Shrimp Cocktail,BBQ Chicken,Beef Short Rib,French Fry Platter,Apple Pie a la Mode,3.42
+355,Jumbo Shrimp Cocktail,BBQ Chicken,Steak Sampler,Mac and Cheese,Blondie Brownie,6.478
+356,Jumbo Shrimp Cocktail,BBQ Chicken,Steak Sampler,Mac and Cheese,Apple Pie a la Mode,7.738
+357,Jumbo Shrimp Cocktail,BBQ Chicken,Steak Sampler,Potato Salad,Blondie Brownie,7.668
+358,Jumbo Shrimp Cocktail,BBQ Chicken,Steak Sampler,Potato Salad,Apple Pie a la Mode,7.908
+359,Jumbo Shrimp Cocktail,BBQ Chicken,Steak Sampler,French Fry Platter,Blondie Brownie,6.448
+360,Jumbo Shrimp Cocktail,BBQ Chicken,Steak Sampler,French Fry Platter,Apple Pie a la Mode,3.568
+361,Jumbo Shrimp Cocktail,Buffalo Chicken Macaroni Stacker,Sausage,Mac and Cheese,Blondie Brownie,8.05
+362,Jumbo Shrimp Cocktail,Buffalo Chicken Macaroni Stacker,Sausage,Mac and Cheese,Apple Pie a la Mode,9.6
+363,Jumbo Shrimp Cocktail,Buffalo Chicken Macaroni Stacker,Sausage,Potato Salad,Blondie Brownie,3.66
+364,Jumbo Shrimp Cocktail,Buffalo Chicken Macaroni Stacker,Sausage,Potato Salad,Apple Pie a la Mode,8
+365,Jumbo Shrimp Cocktail,Buffalo Chicken Macaroni Stacker,Sausage,French Fry Platter,Blondie Brownie,5.95
+366,Jumbo Shrimp Cocktail,Buffalo Chicken Macaroni Stacker,Sausage,French Fry Platter,Apple Pie a la Mode,8.65
+367,Jumbo Shrimp Cocktail,Buffalo Chicken Macaroni Stacker,Lobster Roll,Mac and Cheese,Blondie Brownie,7.73
+368,Jumbo Shrimp Cocktail,Buffalo Chicken Macaroni Stacker,Lobster Roll,Mac and Cheese,Apple Pie a la Mode,9.574
+369,Jumbo Shrimp Cocktail,Buffalo Chicken Macaroni Stacker,Lobster Roll,Potato Salad,Blondie Brownie,6.91
+370,Jumbo Shrimp Cocktail,Buffalo Chicken Macaroni Stacker,Lobster Roll,Potato Salad,Apple Pie a la Mode,6.66
+371,Jumbo Shrimp Cocktail,Buffalo Chicken Macaroni Stacker,Lobster Roll,French Fry Platter,Blondie Brownie,7.37
+372,Jumbo Shrimp Cocktail,Buffalo Chicken Macaroni Stacker,Lobster Roll,French Fry Platter,Apple Pie a la Mode,7.98
+373,Jumbo Shrimp Cocktail,Buffalo Chicken Macaroni Stacker,Beef Short Rib,Mac and Cheese,Blondie Brownie,8.83
+374,Jumbo Shrimp Cocktail,Buffalo Chicken Macaroni Stacker,Beef Short Rib,Mac and Cheese,Apple Pie a la Mode,6.85
+375,Jumbo Shrimp Cocktail,Buffalo Chicken Macaroni Stacker,Beef Short Rib,Potato Salad,Blondie Brownie,7.84
+376,Jumbo Shrimp Cocktail,Buffalo Chicken Macaroni Stacker,Beef Short Rib,Potato Salad,Apple Pie a la Mode,9.63
+377,Jumbo Shrimp Cocktail,Buffalo Chicken Macaroni Stacker,Beef Short Rib,French Fry Platter,Blondie Brownie,7.49
+378,Jumbo Shrimp Cocktail,Buffalo Chicken Macaroni Stacker,Beef Short Rib,French Fry Platter,Apple Pie a la Mode,6.23
+379,Jumbo Shrimp Cocktail,Buffalo Chicken Macaroni Stacker,Steak Sampler,Mac and Cheese,Blondie Brownie,6.038
+380,Jumbo Shrimp Cocktail,Buffalo Chicken Macaroni Stacker,Steak Sampler,Mac and Cheese,Apple Pie a la Mode,4.738
+381,Jumbo Shrimp Cocktail,Buffalo Chicken Macaroni Stacker,Steak Sampler,Potato Salad,Blondie Brownie,4.768
+382,Jumbo Shrimp Cocktail,Buffalo Chicken Macaroni Stacker,Steak Sampler,Potato Salad,Apple Pie a la Mode,6.248
+383,Jumbo Shrimp Cocktail,Buffalo Chicken Macaroni Stacker,Steak Sampler,French Fry Platter,Blondie Brownie,7.138
+384,Jumbo Shrimp Cocktail,Buffalo Chicken Macaroni Stacker,Steak Sampler,French Fry Platter,Apple Pie a la Mode,7.428
